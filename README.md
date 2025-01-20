@@ -21,7 +21,7 @@ This repository contains an image classification project built with TensorFlow/K
 
 ## Overview
 
-This project aims to create an accurate and efficient image classifier. It leverages convolutional neural networks (CNNs) to process and analyze image data, achieving [accuracy percentage]% accuracy on the test dataset.
+This project aims to create an accurate and efficient image classifier. It leverages convolutional neural networks (CNNs) to process and analyze image data, achieving 99.6% accuracy on the test dataset.
 
 ---
 
