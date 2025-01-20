@@ -1,0 +1,38 @@
+# Ignore Python virtual environment
+venv/
+.env/
+.env*/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore data directories
+data/
+*.csv
+*.npy
+*.npz
+
+# Ignore TensorFlow saved models and checkpoints
+src/model/
+src/checkpoints/
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
